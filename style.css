@@ -18,3 +18,14 @@ body {
   font-size: 16px;
   color: rgb(70, 15, 121);
 }
+.champs {
+  display: flex;
+  /* border-radius: 25px; */
+  /* flex-direction: row; */
+  /* justify-content: space-around; */
+ 
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
