@@ -23,7 +23,12 @@ body {
   /* border-radius: 25px; */
   /* flex-direction: row; */
   /* justify-content: space-around; */
- 
+}
+.brute{
+  color:rgba(98, 30, 30, 0.685);
+}
+.speed{
+  color:blue
 }
 .col {
   display: flex;
